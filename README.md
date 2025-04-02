@@ -60,5 +60,5 @@
 - 🔗 LinkedIn: [(https://www.linkedin.com/in/hui-ling-hsiao-028020250/)]
 
 ## 📊 GitHub 統計
-![Hui-Ling's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用戶名&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用戶名&layout=compact&theme=dracula)
+![Hui-Ling's GitHub stats](https://github-readme-stats.vercel.app/api?username=huilin157&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huilin157&layout=compact&theme=dracula)
